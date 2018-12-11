@@ -2,6 +2,8 @@
 
 A terminal based Pizza ordering site where the user can login as a customer or employee and either look up store information, place an order or modify the menu or store hours. All data for the site is held in the respective .txt files.
 
+**This program was made for an assignment in a Computer Science class, DO NOT copy for commercial or educational use.**
+
 Some sample output:
 
       Welcome to Bytes Pizza!
